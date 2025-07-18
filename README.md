@@ -114,4 +114,4 @@ Create a `.env.local` file in the root directory (optional):
 
 ## 🚀 Deployment
 
-Demo: [http://localhost:3000](http://localhost:3000)
+Demo: [https://single-fakestore.vercel.app/]([http://localhost:3000](https://single-fakestore.vercel.app/))
